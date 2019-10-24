@@ -1,0 +1,1 @@
+Solid phase peptide synthesis already know the adding sequence of amino acid calculate all the possible mass of the peptides on the basis of first AA was added on resin well Version: 2.0 Author: Jee Notice: The sequence was inputted line by line;If there is Boc/Fmoc/OMe protection, just put them in the new line. for Boc-Phe: Boc Phe Date: 2019-09-04
